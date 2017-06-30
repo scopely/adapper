@@ -92,8 +92,8 @@ afterEvaluate { project ->
     task androidSourcesJar(type: Jar) {
         classifier = 'sources'
         //basename = artifact_id
-        from android.sourceSets.main.java,
-                android.sourceSets.main.res
+        from android.sourceSets.main.java.srcDirs,
+                android.sourceSets.main.res.srcDirs
     }
 
     artifacts {
