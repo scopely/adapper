@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  ~ Copyright 2017 Scopely, Inc.
+  ~
+  ~ Licensed under the Apache License, Version 2.0 (the "License");
+  ~ you may not use this file except in compliance with the License.
+  ~ You may obtain a copy of the License at
+  ~
+  ~     http://www.apache.org/licenses/LICENSE-2.0
+  ~
+  ~ Unless required by applicable law or agreed to in writing, software
+  ~ distributed under the License is distributed on an "AS IS" BASIS,
+  ~ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  ~ See the License for the specific language governing permissions and
+  ~ limitations under the License.
+  -->
+
+<resources>
+
+    <string name="app_name">Adapper</string>
+    <string name="title_section_simple_list">Simple List</string>
+    <string name="title_section_populatable_list">Populateable List</string>
+    <string name="title_section_groupable_list">Groupable List</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_section_recursive_list">Recursive List</string>
+    <string name="title_section5">Animated Simple List</string>
+    <string name="title_section6">Animated Groupable List</string>
+    <string name="title_section7">Animated Recursive List</string>
+    <string name="title_section8">Cursor</string>
+    <string name="title_section9">Item Aware Click Listeners</string>
+    <string name="search">search</string>
+    <string name="filter">filter</string>
+    <string name="adapters">Adapters</string>
+    <string name="selectors">Selectors</string>
+    <string name="animations">Animations</string>
+    <string name="list_views">List Views</string>
+    <string name="click_views">Click Listeners</string>
+    <string name="title_section_groupable_grid">Groupable Grid</string>
+    <string name="title_section_heterogenous">Heterogeneous</string>
+    <string name="title_section_cursor">Cursor</string>
+    <string name="title_section_radio_selection">Radio Selection</string>
+    <string name="title_section_multi_selection">Multi-Selection</string>
+    <string name="title_section_limited_selection">Capped Selection</string>
+    <string name="title_section_buck_wild">Buck Wild</string>
+    <string name="title_section_dead_simple">Dead Simple</string>
+    <string name="add">add</string>
+    <string name="remove">remove</string>
+    <string name="swap">swap</string>
+
+</resources>
